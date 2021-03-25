@@ -1,4 +1,4 @@
-const apiKey = 'b6cc4392568a3586e950307c86a22bbd';
+const apiKey = "daa8b8541b6bcf70f746cd7637c98c4f";
 const apiBase = 'https://api.openweathermap.org/data/2.5/weather';
 
 const getWeatherData = city => {
